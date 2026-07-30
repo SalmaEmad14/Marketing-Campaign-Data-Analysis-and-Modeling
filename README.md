@@ -49,6 +49,6 @@ This project analyzes a marketing campaign dataset to uncover customer behavior 
 ## 🔗 Kaggle Notebook
 https://www.kaggle.com/code/salmaemadali/marketing-campaign-data-analysis-and-modeling
 
-## 👩‍💻 Author
+##  Author
 **Salma Emad**  
 AI & Machine Learning Engineer
